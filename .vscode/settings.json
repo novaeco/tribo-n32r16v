@@ -1,7 +1,0 @@
-{
-    "idf.openOcdConfigs": [
-        "board/esp32p4-builtin.cfg"
-    ],
-    "idf.portWin": "COM9",
-    "idf.pythonInstallPath": "C:\\Espressif\\tools\\idf-python\\3.11.2\\python.exe"
-}
